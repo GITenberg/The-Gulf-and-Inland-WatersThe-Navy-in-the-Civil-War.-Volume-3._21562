@@ -1,0 +1,34 @@
+_repo: The-Gulf-and-Inland-WatersThe-Navy-in-the-Civil-War.-Volume-3._21562
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mahan, A. T. (Alfred Thayer)
+    aliases:
+    - Mahan, Alfred T.
+    - Mahan, Alfred Thayer
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '5116'
+    url: http://www.gutenberg.org/2009/agents/5116
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Thayer_Mahan
+description: Covers the Civil War campaigns of the West Gulf Squadron and operations
+  on the Tennessee, Cumberland, Mississippi, and Red Rivers.
+gutenberg_issued: '2007-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States. Navy -- History'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Naval operations'
+title: 'The Gulf and Inland Waters
+
+  The Navy in the Civil War. Volume 3.'
+url: http://www.gutenberg.org/ebooks/21562
